@@ -6,3 +6,5 @@
 - [Optimize Your SpaCy NER Results with This Simple Change](https://python.plainenglish.io/optimize-your-spacy-ner-results-with-this-simple-change-e59937c411ab)
 - [Loading and Preparing a Dataset for Fine-Tuning the Pre-Trained bert-base-NER Model in Hugging Face for Named Entity Recognition (NER)](https://medium.com/@anyuanay/working-with-hugging-face-lesson-2-2-e1e53bdf6507)
 - [Fine-Tuning the Pre-Trained bert-base-NER in Hugging Face for Named Entity Recognition (NER)](https://medium.com/@anyuanay/working-with-hugging-face-lesson-2-3-885abc410c2d)
+- [3 Techniques to Perform Named Entity Recognition (NER) on Text Data](https://medium.com/geekculture/3-techniques-to-perform-named-entity-recognition-ner-on-text-data-ec1e91e3a8aa)
+- [Building Your Own Custom Named Entity Recognition (NER) Model with spaCy V3: A Step-by-Step Guide](https://medium.com/@mjghadge9007/building-your-own-custom-named-entity-recognition-ner-model-with-spacy-v3-a-step-by-step-guide-15c7dcb1c416)
