@@ -8,6 +8,7 @@
 - [Fine-Tuning the Pre-Trained bert-base-NER in Hugging Face for Named Entity Recognition (NER)](https://medium.com/@anyuanay/working-with-hugging-face-lesson-2-3-885abc410c2d)
 - [3 Techniques to Perform Named Entity Recognition (NER) on Text Data](https://medium.com/geekculture/3-techniques-to-perform-named-entity-recognition-ner-on-text-data-ec1e91e3a8aa)
 - [Building Your Own Custom Named Entity Recognition (NER) Model with spaCy V3: A Step-by-Step Guide](https://medium.com/@mjghadge9007/building-your-own-custom-named-entity-recognition-ner-model-with-spacy-v3-a-step-by-step-guide-15c7dcb1c416)
+- [Custom Named Entity Recognition using spaCy v3](https://www.analyticsvidhya.com/blog/2022/06/custom-named-entity-recognition-using-spacy-v3/)
 
 **MLOps**
 - [MLOps: Fundamentals of MLOps - Part 1](https://medium.com/@mehrabi.hamed/mlops-fundamentals-of-an-mlops-8eda98ea828b)
